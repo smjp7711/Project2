@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Game>
+	<Level1>
+		<Object type="Object1Name">
+			<Body x="0.0f" y="0.0f" angle="0.0f"/>
+		</Object>
+		<Object type="Object2Name">
+			<Body x="0.0f" y="0.0f" angle="0.0f"/>
+		</Object>
+	</Level1>
+</Game>
